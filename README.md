@@ -1,12 +1,14 @@
 # \# Networking and Security Labs
 
-# This repository documents my hands-on networking and cybersecurity labs
+# 
 
-# completed while preparing for the Cisco CCNA and developing practical
+# This repository documents my hands-on networking and cybersecurity labs completed while preparing for the Cisco CCNA and developing practical infrastructure support skills.
 
-# infrastructure support skills.
+# 
 
-# \# Objectives 
+# \## Objectives
+
+# 
 
 # \- Strengthen routing and switching fundamentals
 
@@ -18,7 +20,11 @@
 
 # \- Document technical work clearly and professionally
 
-# \# Lab Environment
+# 
+
+# \## Lab Environment
+
+# 
 
 # \- Cisco Packet Tracer
 
